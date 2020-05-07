@@ -1,1 +1,216 @@
-<!-- In this file you are going to write the CSS code -->
+
+    *{
+        margin: 0;
+        padding: 0;
+    }
+
+.nav_bar{
+    display: inline-block;
+    height:85px;
+    margin-top: 0px;
+}
+
+#nav_list{
+    text-align: center;
+    /* background-color:red; */
+    width:100%;
+}
+
+.transferent_nav{
+  
+    
+    position: absolute;
+  top: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(255, 255, 255, 0.7); /* Black background with 0.5 opacity */
+  color: black;
+  width: 100%;
+  padding: 20px;
+  height: 50px;
+}
+
+.color{
+
+    position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(255, 255, 255, 0.7); /* Black background with 0.5 opacity */
+  color: black;
+  width: 100%;
+  padding: 20px;
+  height: 50px;
+}
+.nav_bar li{
+    list-style-type: none;
+    display: inline;
+    text-decoration: none;
+    padding:20px;
+
+    
+}
+.top-right {
+    position: absolute;
+    top: 27px;
+    right: 160px;
+    
+  }
+
+.top-left {
+    position: absolute;
+    top: 0px;
+    left: 200px;
+  }
+
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    opacity: 0.7;
+  }
+
+
+#cta_link{
+    position: absolute;
+    right: 45px;
+    bottom: 25px;
+    width:185px; 
+    height: 15px;
+    background-color:rgb(13, 177, 241);
+    text-decoration: none;
+    padding: 3px;
+    margin-right: 3px;
+}
+.cta #cta_text{
+    position: absolute;
+    bottom: 25px;
+ margin-left: 150px;
+ margin-right: 30px;
+}
+
+.cta #cta_header{
+ display: inline;
+} 
+
+
+.cta{
+    
+    display: inline-block;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    height: 60px;
+    justify-items: right;
+    width: 1350px;
+} 
+.cta :hover{
+   height:20px;
+   width:auto;
+    
+
+}
+#flex{
+width:220px;
+height:150px;
+display: inline-block;
+margin: 30px;
+text-align: center;
+
+
+ }
+.services_wrapper li{
+    padding-left: 50px;
+    padding-right: 50px;
+     text-align: center;
+     margin:10px;
+     padding: 10px;
+     font-size: 36px;
+     list-style-type: none;
+     width: 600px;
+ }
+
+ #round{
+    width:240px;
+height:130px;
+display: inline-block;
+margin: 30px;
+text-align: center;  
+ }
+
+.bb{
+   color: rgb(0, 0, 0,0.5);
+    width:80px;
+height:14px;
+display: inline-block;
+text-align: center;
+margin-right: 70px;
+margin-left: 70px;  
+margin-top: 10px;
+    
+}
+
+.footer_widget{
+  height: 200px;
+background-color: rgb(36, 34, 34);
+padding-top: 0;
+
+}
+.box-2{
+float: left;
+width: 25%;
+text-align:center;
+list-style-type: none;
+color:#fff;
+text-decoration: none;
+background-color: rgb(36, 34, 34);
+
+}
+.box-2 #locations{
+  padding-top: 0px;
+  margin: 20px;
+}
+.box-2 #support{
+padding-top: 0px;
+  margin: 20px;
+}
+.box-2 #company{
+padding-top: 0px;   
+margin: 20px;
+}
+.box-2 #ark{
+padding-top: 0px;
+  margin:20px;
+}
+.box-2 #comp_list li{
+  text-decoration: none;
+  list-style: none;
+}
+.box-2 #comp_list li a{
+  text-decoration: none;
+  color: white;
+}
+.box-2 #sup_list li{
+  list-style: none;
+ 
+}
+.box-2 #sup_list li a{
+  text-decoration: none;
+  color: white;
+}
+.box-2 img{
+ margin-top:20px;
+}
+.box-2 #sup_list #sup_item_3{
+padding-bottom:31px;
+}
+.box-2 #comp_list #comp_item_4{
+padding-bottom: 14px;
+}
+.box-2 #ark-para{
+padding-bottom: 31px;
+}
+
+.rights{
+    background-color: black;
+    text-align: center;
+    color: white;
+    
+}
