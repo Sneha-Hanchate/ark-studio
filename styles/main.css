@@ -92,6 +92,15 @@
  display: inline;
 } 
 
+.recent_work{
+  display: flex;
+  margin: 0px;
+}
+
+.recent_work img{
+  flex: 1;
+}
+
 
 .cta{
     
