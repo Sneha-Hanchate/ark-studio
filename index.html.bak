@@ -40,7 +40,7 @@
     
     <section class="services wrapper">
     <center> <p style="font-size: xx-large;">We are ARK Studio,We make awesome stuff</p>
-    <img src="img/separator.png" alt="">
+    <img src="images/separator.png" alt="">
 </center>
     <ul style="text-align: center;padding-left: 40px;padding-bottom: 0px;">
         <li id="flex"> 
@@ -49,18 +49,12 @@
             <img src="img/s1.png" alt="">
             <h6>Slamco laboris velitesse</h6>
             <p style="font-size: 24px;">sed do eiusmod tempor inciduint uto labore dolore magna eliqua enim minim veniam</p>
-            </div>
-        </li>
-        <li id="flex">
-            <div>
+            </div><div>
                 <img src="img/s2.png" alt="">
                 <h6>Slamco laboris velitesse</h6>
                 <p style="font-size: 24px;">sed do eiusmod tempor inciduint uto labore dolore magna eliqua enim minim veniam</p>
 
             </div>
-        </li>
-        <li></li>
-
             <div><img src="img/s3.png" alt="">
                 <h6>Slamco laboris velitesse</h6>
                 <p style="font-size: 24px;">sed do eiusmod tempor inciduint uto labore dolore magna eliqua enim minim veniam</p>
